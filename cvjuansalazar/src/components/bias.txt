@@ -1,0 +1,27 @@
+<p>Duración: 4 años</p>
+<p>Estado: Último año (110/134 créditos cursados y aprobados)</p>
+<p>Estudiar Ciencia de Datos en la Pontificia Universidad Javeriana me ha brindado una solida formación en el campo del Análisis de Datos y el Aprendizaje Automático. A través de las enseñanzas teóricas y prácticas, he adquirido habilidades para el manejo de grandes volúmenes de datos, la aplicación de algoritmos de aprendizaje automático y la implementación de modelos de análisis predictivo. Además, la universidad cuenta con una amplia oferta de cursos tanto en la facultad de Ingeniería como en la de Ciencias, lo que me ha permitido tener contacto con proyectos actuales en el campo y poner en práctica los conocimientos adquiridos.</p>
+<p>El programa se divide en 4 grandes núcleos:</p>
+<ul>
+  <li>Formación en Computación (28cr): Estructuras de Datos, Bases de Datos, Procesamiento de Datos a Gran escala, Técnicas de Aprendizaje Automático, Programación Avanzada, entre otros.</li>
+  <li>Formación en Ciencias Económicas (15cr): Microeconomía, Teoría Administrativa, Gestión de Proyectos, entre otros.</li>
+  <li>Formación en Matemáticas (27cr): Optimización, Inferencia, Análisis multivariado, Análisis de Regresión, entre otros.</li>
+  <li>Formación en Comunicación (10cr): Visualización de Datos, Narrativa de Datos, entre otros.</li>
+</ul>
+
+La certificación Azure DP-100 es una certificación de nivel especialista de Microsoft Azure que se centra en los datos y en cómo utilizar Azure Data Factory, Azure Stream Analytics y Azure Databricks para crear soluciones de análisis de datos en la nube. Los candidatos que obtienen esta certificación demuestran que tienen habilidades para crear soluciones de análisis de datos avanzadas en Azure, lo que les permite procesar, almacenar y analizar grandes volúmenes de datos en tiempo real, con el objetivo de obtener información valiosa para la toma de decisiones.
+
+<p>En mi experiencia, esta certificación me ha permitido adquirir habilidades para diseñar y implementar soluciones de análisis de datos en Azure, utilizando herramientas como Data Factory, Stream Analytics y Databricks, lo que me permite procesar, almacenar y analizar grandes volúmenes de datos en tiempo real, con el objetivo de obtener información valiosa para la toma de decisiones.</p>
+<p> Me gustaría aplicar estas habilidades en su empresa para ayudar a obtener información valiosa a través del análisis de sus datos y contribuir a la toma de decisiones informadas.</p>
+
+<p>Mi certificación Azure DP-203 como ingeniero de datos asociado me ha brindado habilidades valiosas en la integración, transformación y consolidación de datos de varios sistemas estructurados y no estructurados en estructuras adecuadas para la creación de soluciones de análisis. Me ha permitido ayudar a las partes interesadas a comprender los datos mediante la exploración, creación y mantenimiento de canalizaciones de procesamiento de datos seguras y conformes, utilizando diferentes herramientas y técnicas en Azure.</p>
+
+<p>Mi experiencia en el uso de varios lenguajes y servicios de datos de Azure me permite almacenar y generar conjuntos de datos limpios y mejorados para su análisis. También me especializo en garantizar que las canalizaciones de datos y los almacenes de datos son de alto rendimiento, eficientes, organizados y confiables, dado un conjunto específico de requisitos y restricciones empresariales. Mi capacidad para manejar rápidamente imprevistos y minimizar la pérdida de datos me permite diseñar, implementar, supervisar y optimizar plataformas de datos para satisfacer las necesidades de la canalización de datos.</p>
+
+<p>Con un conocimiento sólido de lenguajes de procesamiento de datos como SQL, Python o Scala, y comprensión de patrones de arquitectura de datos y procesamiento paralelo, estoy preparado para enfrentar los desafíos de la industria y ayudar a las empresas a obtener información valiosa a partir del análisis de sus datos. Mi certificación Azure DP-203 es una prueba de mi capacidad para desempeñar el rol de un ingeniero de datos asociado de manera eficiente y efectiva.</p>
+
+Lunes: Desarrollo de software de 7:00 a 9:00; Horario disponible: 9:00 Narrativa de Datos 13:00-16:00
+Martes: Teoría Administrativa 13:00-16:00.
+Miércoles: Legislación de Datos 7:00-10:00; Inferencia Estadística 14:00-16:00; Optimización Líneal 16:00-18:00.
+Jueves: Gestión de Proyectos 7:00-9:00.
+Viernes: Desarrollo de software de 7:00 a 9:00; Optimización Lineal 11:00-13:00; Inferencia Estadística 14:00-16:00; Optimización Líneal 16:00-18:00.

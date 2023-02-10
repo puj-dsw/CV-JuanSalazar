@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4db6bac4.css",
+    "main.js": "/static/js/main.a65c960b.js",
+    "static/media/Shiny.svg": "/static/media/Shiny.a1c543f74119c9905c39.svg",
+    "static/media/scikit.svg": "/static/media/scikit.6cad9eb8ea206d45f1e0.svg",
+    "static/media/javeriana.png": "/static/media/javeriana.cafd0e3a94db8330b023.png",
+    "static/media/powerbi.svg": "/static/media/powerbi.3e71145eba892059cc47.svg",
+    "static/media/Visualizacion.svg": "/static/media/Visualizacion.0403463e80459174c23f.svg",
+    "static/media/pytorch.svg": "/static/media/pytorch.13e3a7d5ee922386b905.svg",
+    "static/media/AWS.png": "/static/media/AWS.307d0068668e74c56668.png",
+    "static/media/MsLogo.png": "/static/media/MsLogo.02fe85f3359dc7b0f980.png",
+    "static/media/ML.svg": "/static/media/ML.583afaab590eeb1c988d.svg",
+    "static/media/Gobernanza.svg": "/static/media/Gobernanza.913cd229ba691d5b6662.svg",
+    "static/media/Modelado.svg": "/static/media/Modelado.195701e9657f672e3acf.svg",
+    "static/media/Analisis.svg": "/static/media/Analisis.3cce924285f6be78c640.svg",
+    "static/media/Curaduria.svg": "/static/media/Curaduria.3f0ab720d6d96f0ed24f.svg",
+    "static/media/pandas.svg": "/static/media/pandas.a416c00c687985714866.svg",
+    "static/media/Azure.svg": "/static/media/Azure.f9d9dee69953221e4db6.svg",
+    "static/media/spark.svg": "/static/media/spark.afbebe526a83b331573c.svg",
+    "static/media/1.svg": "/static/media/1.3cc259f4e79f3829eb24.svg",
+    "static/media/python.svg": "/static/media/python.c7b2086ef9585c94fb40.svg",
+    "static/media/4.svg": "/static/media/4.09d6767be8f5b0f7c407.svg",
+    "static/media/sql.svg": "/static/media/sql.650b376dc62e8c141ec4.svg",
+    "static/media/3.svg": "/static/media/3.a71620a51f72abebec01.svg",
+    "static/media/r.svg": "/static/media/r.57e22e88375ed114528c.svg",
+    "static/media/AWS.svg": "/static/media/AWS.57a4498d5eff6944b790.svg",
+    "static/media/blacksvg.svg": "/static/media/blacksvg.3fffe22440f45e472f9696f75db9ab37.svg",
+    "static/media/2.svg": "/static/media/2.746bf62798f482663f92.svg",
+    "static/media/cpp.svg": "/static/media/cpp.746bf62798f482663f92.svg",
+    "static/media/GCP.svg": "/static/media/GCP.6bf56500df85ac3046a5.svg",
+    "static/media/tensorflow.svg": "/static/media/tensorflow.f9c5c01c44d61854b221.svg",
+    "index.html": "/index.html",
+    "main.4db6bac4.css.map": "/static/css/main.4db6bac4.css.map",
+    "main.a65c960b.js.map": "/static/js/main.a65c960b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4db6bac4.css",
+    "static/js/main.a65c960b.js"
+  ]
+}
