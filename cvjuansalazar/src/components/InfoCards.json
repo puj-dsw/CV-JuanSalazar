@@ -1,0 +1,170 @@
+{
+    "frameworks": [
+        {
+            "text1": "Librería Python",
+            "name": "TensorFlow",
+            "icon": "tensorflow",
+            "percent": 80,
+            "call": "proyectos",
+            "descp": "Machine Learning y Deep Learning."
+        },
+        {
+            "text1": "Visualización",
+            "name": "PowerBi",
+            "icon": "powerbi",
+            "percent": 80,
+            "call": "proyectos",
+            "descp": "Desarrollo y despliegue de Dashboards y aplicaciones de análisis."
+        },
+        {
+            "text1": "Visualización",
+            "name": "Shiny R",
+            "icon": "Shiny",
+            "percent": 65,
+            "call": "proyectos",
+            "descp": "Desarrollo y despligue  de Dashboards y aplicaciones basadas en Python o R."
+        },
+        {
+            "text1": "Librería Python",
+            "name": "Pandas",
+            "icon": "pandas",
+            "percent": 90,
+            "call": "proyectos",
+            "descp": "Análisis y manipulación de Datos."
+        },
+        {
+            "text1": "Librería Python",
+            "name": "Pytorch",
+            "icon": "pytorch",
+            "percent": 75,
+            "call": "proyectos",
+            "descp": "Machine Learning y Deep learning."
+        },
+        {
+            "text1": "Librería Python",
+            "name": "Sci-kit Learn",
+            "icon": "scikit",
+            "percent": 75,
+            "call": "proyectos",
+            "descp": "Machine Learning."
+        },
+        {
+            "text1": "Framework",
+            "name": "Spark",
+            "icon": "spark",
+            "percent": 75,
+            "call": "proyectos",
+            "descp": "Procesamiento de datos distribuido: +Pyspark."
+        }
+    ],
+    "lenguajes": [
+        {
+            "text1": "Lenguajes",
+            "name": "R",
+            "icon": "r",
+            "percent": 75,
+            "call": "Proyectos",
+            "descp": "Análisis y modelado estadístico."
+        },
+        {
+            "text1": "Lenguajes",
+            "name": "C++",
+            "icon": "cpp",
+            "percent": 75,
+            "call": "Proyectos",
+            "descp": "Análisis y modelado estadístico."
+        },
+        {
+            "text1": "Lenguajes",
+            "name": "Python",
+            "icon": "python",
+            "percent": 75,
+            "call": "Proyectos",
+            "descp": "Análisis y modelado estadístico."
+        },
+        {
+            "text1": "Lenguajes",
+            "name": "SQL",
+            "icon": "sql",
+            "percent": 75,
+            "call": "Proyectos",
+            "descp": "Análisis y modelado estadístico."
+        }
+    ],
+    "skills": [
+        {
+            "text1": "Habilidad",
+            "name": "Análisis de Datos",
+            "icon": "Analisis",
+            "percent": 75,
+            "call": "proyectos",
+            "descp": "Hallar valor en fuentes de datos para Negocios e Investigación."
+        },
+        {
+            "text1": "Habilidad",
+            "name": "IA y Machine Learning",
+            "icon": "ML",
+            "percent": 85,
+            "call": "proyectos",
+            "descp": "Desarrollar, implementar y mantener Pipelines End-to-End Basadas en Aprendizaje Automático."
+        },
+        {
+            "text1": "Habilidad",
+            "name": "Visualización",
+            "icon": "Visualizacion",
+            "percent": 75,
+            "call": "proyectos",
+            "descp": "Comunicar hallazgos de los Datos a múltiples audiencias, estática o interactivamente en una amplia variedad de formatos."
+        },
+        {
+            "text1": "Habilidad",
+            "name": "Curaduría de Datos",
+            "icon": "Curaduria",
+            "percent": 80,
+            "call": "proyectos",
+            "descp": "Transformar conjuntos de datos bajo estándares de la industria y listos para alimentar flujos de trabajo."
+        },
+        {
+            "text1": "Habilidad",
+            "name": "Gobernanza de Datos",
+            "icon": "Gobernanza",
+            "percent": 90,
+            "call": "proyectos",
+            "descp": "Legislación, Gestión de proyectos, Acceso y Distribución de Datos bajo normas y estándares."
+        },
+        {
+            "text1": "Habilidad",
+            "name": "Modelado de Datos",
+            "icon": "Modelado",
+            "percent": 80,
+            "call": "proyectos",
+            "descp": "Transformar y modelar datos para diversas aplicaciones con conocimiento de técnicas y prácticas de estadística y econometría."
+        }
+    ],
+    "cloud": [
+        {
+          "text1": "Cloud & Data Engineering",
+          "name": "Azure",
+          "icon": "Azure",
+          "percent": 80,
+          "call": "proyectos",
+          "descp": "Machine Learning, Azure Databricks, Data Factory, CosmosDB. Con certificación Azure: DP-100 & DP-203."
+        },
+        {
+          "text1": "Cloud & Data Engineering",
+          "name": "GCP",
+          "icon": "GCP",
+          "percent": 60,
+          "call": "proyectos",
+          "descp": "Dataflow, BigTable, ML Engine, Cloud Storage."
+        },
+        {
+          "text1": "Cloud & Data Engineering",
+          "name": "AWS",
+          "icon": "AWS",
+          "percent": 70,
+          "call": "proyectos",
+          "descp": "SageMaker, EMR, DynamoDB, Glue, S3. Con certificación AWS: Machine Learning Specialist."
+        }
+      ]
+}
